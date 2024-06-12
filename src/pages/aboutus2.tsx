@@ -12,7 +12,7 @@ export default function aboutus2() {
       <Breadcrumb />
       <ContainSection />
       <TechTeam />
-      {/* <OurTeam /> */}
+      <OurTeam />
       <OperationTeam />
     </WebLayOut>
   );
